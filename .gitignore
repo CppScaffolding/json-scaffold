@@ -1,0 +1,4 @@
+## .gitignore file for json-scaffold
+
+## ignore folder fetched through gclient
+json
